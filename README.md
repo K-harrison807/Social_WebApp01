@@ -5,7 +5,7 @@ This is a social media web application built with PHP, MySQL, HTML, and CSS. The
 ![Messages](https://github.com/K-harrison807/mini-facebook-php/blob/main/webApp%20Screenshots/Screenshot%202025-10-31%20184651.png)
 ![Profile](https://github.com/K-harrison807/mini-facebook-php/blob/main/webApp%20Screenshots/Screenshot%202025-10-31%20184305.png)
 ![Login](https://github.com/K-harrison807/mini-facebook-php/blob/main/webApp%20Screenshots/Screenshot%202025-10-31%20184758.png)
-![Profile]()
+![Profile](https://github.com/K-harrison807/mini-facebook-php/blob/main/webApp%20Screenshots/Screenshot%202025-10-31%20184951.png)
 ![Profile]()
 ![Profile]()
 ![Profile]()
