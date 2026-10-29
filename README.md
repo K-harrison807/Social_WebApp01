@@ -2,7 +2,7 @@
 
 ## Description
 This is a social media web application built with PHP, MySQL, HTML, and CSS. The app focuses on backend functionality including user authentication, profile management, posts, inbox messaging, and user search.
-## Screenshots( Check out for more in the ScreenShots folder, they include database setup
+## Screenshots( Check out for more in the ScreenShots folder, including database setup
 ![Messages](https://github.com/K-harrison807/mini-facebook-php/blob/main/webApp%20Screenshots/Screenshot%202025-10-31%20184651.png)
 ![Profile](https://github.com/K-harrison807/mini-facebook-php/blob/main/webApp%20Screenshots/Screenshot%202025-10-31%20184305.png)
 ![Login](https://github.com/K-harrison807/mini-facebook-php/blob/main/webApp%20Screenshots/Screenshot%202025-10-31%20184758.png)
